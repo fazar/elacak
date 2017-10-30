@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Auth.master.cs" Inherits="ELacak.Web.Views.Auth.Auth" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <meta name="viewport" content="initial-scale=1.0, minimum-scale=1, maximum-scale=1.0, user-scalable=no" />
+    <link href="styles/login.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <a href="#" class="logo">
+                <img src="Content/images/logo.jpg" alt="site logo" />
+            </a>
+            <%--<div class="header">
+            </div>--%>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <div class="footer">
+                Copyright&copy; <%= DateTime.Now.Year.ToString() %> Pertamina Hulu Energi
+            </div>
+        </div>
+    </form>
+</body>
+</html>

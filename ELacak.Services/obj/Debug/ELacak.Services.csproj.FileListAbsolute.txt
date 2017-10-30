@@ -1,0 +1,14 @@
+D:\Works\PHE\ELacak\ELacak.Services\bin\Debug\ELacak.Services.dll.config
+D:\Works\PHE\ELacak\ELacak.Services\bin\Debug\ELacak.Services.dll
+D:\Works\PHE\ELacak\ELacak.Services\bin\Debug\ELacak.Services.pdb
+D:\Works\PHE\ELacak\ELacak.Services\bin\Debug\ELacak.Model.dll
+D:\Works\PHE\ELacak\ELacak.Services\bin\Debug\EntityFramework.dll
+D:\Works\PHE\ELacak\ELacak.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Works\PHE\ELacak\ELacak.Services\bin\Debug\ELacak.Model.pdb
+D:\Works\PHE\ELacak\ELacak.Services\bin\Debug\ELacak.Model.dll.config
+D:\Works\PHE\ELacak\ELacak.Services\bin\Debug\EntityFramework.xml
+D:\Works\PHE\ELacak\ELacak.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Works\PHE\ELacak\ELacak.Services\obj\Debug\ELacak.Services.csprojResolveAssemblyReference.cache
+D:\Works\PHE\ELacak\ELacak.Services\obj\Debug\ELacak.Services.dll
+D:\Works\PHE\ELacak\ELacak.Services\obj\Debug\ELacak.Services.pdb
+D:\Works\PHE\ELacak\ELacak.Services\bin\Debug\SimpleCrypto.dll

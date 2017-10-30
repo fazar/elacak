@@ -1,0 +1,9 @@
+D:\Works\PHE\ELacak\ELacak.Data\bin\Debug\ELacak.Model.dll.config
+D:\Works\PHE\ELacak\ELacak.Data\bin\Debug\ELacak.Model.dll
+D:\Works\PHE\ELacak\ELacak.Data\bin\Debug\ELacak.Model.pdb
+D:\Works\PHE\ELacak\ELacak.Data\bin\Debug\EntityFramework.dll
+D:\Works\PHE\ELacak\ELacak.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Works\PHE\ELacak\ELacak.Data\bin\Debug\EntityFramework.xml
+D:\Works\PHE\ELacak\ELacak.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Works\PHE\ELacak\ELacak.Data\obj\Debug\ELacak.Model.dll
+D:\Works\PHE\ELacak\ELacak.Data\obj\Debug\ELacak.Model.pdb

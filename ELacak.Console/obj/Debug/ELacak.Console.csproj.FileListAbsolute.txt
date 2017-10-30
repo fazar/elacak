@@ -1,0 +1,11 @@
+D:\Works\PHE\ELacak\ELacak.Console\bin\Debug\ELacak.Console.exe.config
+D:\Works\PHE\ELacak\ELacak.Console\bin\Debug\ELacak.Console.exe
+D:\Works\PHE\ELacak\ELacak.Console\bin\Debug\ELacak.Console.pdb
+D:\Works\PHE\ELacak\ELacak.Console\bin\Debug\ELacak.Model.dll
+D:\Works\PHE\ELacak\ELacak.Console\bin\Debug\EntityFramework.dll
+D:\Works\PHE\ELacak\ELacak.Console\bin\Debug\ELacak.Model.pdb
+D:\Works\PHE\ELacak\ELacak.Console\bin\Debug\ELacak.Model.dll.config
+D:\Works\PHE\ELacak\ELacak.Console\bin\Debug\EntityFramework.xml
+D:\Works\PHE\ELacak\ELacak.Console\obj\Debug\ELacak.Console.csprojResolveAssemblyReference.cache
+D:\Works\PHE\ELacak\ELacak.Console\obj\Debug\ELacak.Console.exe
+D:\Works\PHE\ELacak\ELacak.Console\obj\Debug\ELacak.Console.pdb
